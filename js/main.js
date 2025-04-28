@@ -413,8 +413,8 @@ let title2 = `
 ╚═════╝    ╚═╝    ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝               
 `
 let content = `
-博客:  https://blog.bywind.xyz
-Github:  https://github.com/haonan15
+博客:  https://blog.csdn.net/qq_38474570
+Github:  https://github.com/TonyChen56
 `
 console.log(`%c${title1} %c${title2}
 %c${content}`, styleTitle1, styleTitle2, styleContent)
