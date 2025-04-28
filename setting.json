@@ -3,7 +3,7 @@
     "description": "一个默默无闻的主页",
     "keywords": "鬼手,个人主页",
     "author": "鬼手",
-    "logo_img": "./img/icon/logo.png",
+    "logo_img": "/img/icon/header.jpg",
     "logo_text_1": "GuiShou",
     "logo_text_2": "xyz",
     "github": "haonan15",
